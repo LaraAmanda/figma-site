@@ -6,12 +6,12 @@
 
 
 
-boy {
+body {
     background-color: var(--verdebk);
 }
 
-img (
-    width: 30%;
+img {
+   width: 30%;
 }
 
 header{
