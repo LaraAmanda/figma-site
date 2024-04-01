@@ -1,0 +1,24 @@
+:root {
+    --verdebk: #94be71;
+}
+
+
+
+
+
+boy {
+    background-color: var(--verdebk);
+}
+
+img (
+    width: 30%;
+}
+
+header{
+    display: flex;
+    align-item: space-around;
+}
+
+section {
+    display: flex;
+}
