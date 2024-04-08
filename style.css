@@ -3,9 +3,6 @@
 }
 
 
-
-
-
 body {
     background-color: var(--verdebk);
 }
@@ -16,7 +13,8 @@ img {
 
 header{
     display: flex;
-    align-item: space-around;
+    justify-content: space-around;
+    align-items: center;
 }
 
 section {
