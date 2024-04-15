@@ -1,5 +1,5 @@
 :root {
-    --verdebk: #6384dd;
+    --verdebk: #ffb8a7;
 }
 
 
@@ -30,6 +30,6 @@ section {
 }
 
 footer{
-    background-color: #6384dd;
+    background-color: #ffc0b0;
     color: black;
 }
