@@ -22,8 +22,9 @@ section {
     display: flex;
 }
 
-imag-intro {
+img-intro {
     width: 20%;
+    padding-left: 48px;
 
 }
 .equipe{
