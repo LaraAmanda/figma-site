@@ -26,13 +26,16 @@ imag-intro {
     width: 20%;
 
 }
+.equipe{
+    display: block;
+}
 
-.foto integrantes{
+.integrantes{
     display: grid;
     grid-template-columns: 33% 33% 33% 33%;
 }
 
-.foto integrantes{
+.foto-integrantes{
     width: 40%;
 }
 
