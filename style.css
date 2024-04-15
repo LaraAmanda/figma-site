@@ -21,6 +21,12 @@ header{
 section {
     display: flex;
 }
+
+image {
+    width: 20%;
+
+}
+
 .foto integrantes{
     display: grid;
     grid-template-columns: 33% 33% 33% 33%;
