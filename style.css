@@ -22,6 +22,10 @@ section {
     display: flex;
 }
 
+div {
+    text-align: center;
+}
+
 img-intro {
     width: 20%;
     padding-left: 48px;
