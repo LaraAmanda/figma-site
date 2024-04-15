@@ -1,5 +1,5 @@
 :root {
-    --verdebk: #d9f0ff;
+    --verdebk: #6384dd;
 }
 
 
@@ -19,4 +19,17 @@ header{
 
 section {
     display: flex;
+}
+.foto integrantes{
+    display: grid;
+    grid-template-columns: 33% 33% 33% 33%;
+}
+
+.foto integrantes{
+    width: 40%;
+}
+
+footer{
+    background-color: #6384dd;
+    color: black;
 }
